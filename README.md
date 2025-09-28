@@ -34,8 +34,7 @@ me = AIEngineer()
 me.say_hello()
 ````
 
-✨ A recent AI Engineering graduate skilled in Generative AI, Computer Vision, Data Science, and Deep Learning, with expertise
-in bridging theoretical concepts and practical implementation and a passion for solving real-world problems.
+✨ A recent AI Engineering graduate with expertise in bridging theoretical concepts and practical implementation, passionate about solving real-world problems and making an impact.
 
 ---
 
