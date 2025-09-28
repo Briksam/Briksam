@@ -83,15 +83,11 @@ in bridging theoretical concepts and practical implementation and a passion for 
 
 ---
 
-## 🏅 Achievements
-
 <div align="center">
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Briksam\&theme=tokyonight\&hide_border=true)
 
 </div>
-
-🎓 Graduated with **High Honors in AI Engineering**
 
 ---
 
