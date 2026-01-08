@@ -61,18 +61,6 @@ me.say_hello()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Briksam&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briksam&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Briksam&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="700">
-</div>
-
----
 
 ## 📈 My Contributions
 
@@ -82,13 +70,6 @@ me.say_hello()
 
 ---
 
-<div align="center">
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Briksam\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
