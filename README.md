@@ -62,15 +62,6 @@ me.say_hello()
 ---
 
 
-## 📈 My Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Briksam&bg_color=0d1117&color=00b3ff&line=00b4ff&point=ffbf00&area=true&hide_border=true" width="95%">
-</div>
-
----
-
-
 ## 🌐 Connect With Me
 
 <div align="center">
